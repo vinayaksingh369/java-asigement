@@ -10,7 +10,5 @@ class Laptop{
    this.color = color;
 }
   public String getDetails(){
-       return"Brand of laptopis:"+brand+"\tModel:"+model+"\tprice:"+price+"\t color:"+color;
-}
-}
+       return"Brand of laptopis:"+brand+"\tModel:"+model+"
      
