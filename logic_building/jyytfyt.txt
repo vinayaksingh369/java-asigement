@@ -1,0 +1,10 @@
+linux
+sdlc stlc
+graph command 
+postive neagtive testcase
+test plan 
+test case 
+bug life cycle
+agile modele
+scrum 
+sprint
